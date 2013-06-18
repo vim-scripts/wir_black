@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4621
+
+Heavily modified ir_black theme.
+
+Currently only supports 255 color terminals, if you have one, you might have to add "set t_Co=256" to your .vimrc.
+
+gvim is not supported, original ir_black will be used for it.
+
+screenshot: http://postimg.org/image/6jswxzy3l/
